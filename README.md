@@ -32,7 +32,11 @@ uvr run r/FileNameGoesHere
 
 ## Using in .Rmd files
 
-`source()` is a function that runs other `.R` and `.Rmd` files. 
+Use it like this:
+```r
+source("https://raw.githubusercontent.com/ivanharvard/stat139-final-project/main/load_all.R")
+run_script("r/02_eda.R")
+```
 
 
 
