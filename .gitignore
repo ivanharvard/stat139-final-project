@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rprofile
+.Rproj.user/
+/.uvr/library/
+/.uvr/activate*
+.vscode

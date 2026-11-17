@@ -1,0 +1,7 @@
+[project]
+name = "stat139-final-project"
+
+[dependencies]
+janitor = "*"
+readxl = "*"
+tidyverse = "*"
